@@ -7,7 +7,6 @@ This project is a Python-based interactive map visualization using the Folium li
 - Interactive map centered over Maryland.
 - GeoJSON layers for Offshore Wind Energy Planning and MDOT SHA County Boundaries.
 - Custom color palette for distinct visualization of different layers.
-- Interactive legend detailing the color coding of the map layers.
 - Pop-ups on each layer providing detailed information about the selected feature.
 
 ## Technology
@@ -27,7 +26,7 @@ To run the visualization, execute the Python script. This will render an interac
 
 ```python
 # Run the script
-python md_ows_map.py
+python md_osw_map.py
 ```
 
 ## Contributing
