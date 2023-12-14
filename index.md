@@ -1,1 +1,1 @@
-<iframe src="map.html" height="900" width="900"></iframe>
+<iframe src="MD_OSW_map.html" height="900" width="900"></iframe>
