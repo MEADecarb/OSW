@@ -27,7 +27,7 @@ To run the visualization, execute the Python script. This will render an interac
 
 ```python
 # Run the script
-python map_visualization.py
+python md_ows_map.py
 ```
 
 ## Contributing
