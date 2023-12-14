@@ -1,7 +1,7 @@
 # Maryland Geospatial Data Visualization for Offshore Wind
 
 ## Project Overview
-This project is a Python-based interactive map visualization using the Folium library. It focuses on visualizing two key aspects of Maryland's geography: Offshore Wind Energy Planning and Maryland's County Boundaries. The map is enhanced with a custom color palette and an interactive legend, providing a clear and informative view of the geospatial data.
+This project is a Python-based interactive map visualization using the Folium library. It focuses on visualizing two key aspects of Maryland's geography: Offshore Wind Energy Planning and Maryland's County Boundaries. The map is enhanced with a custom color palette and an interactive legend, providing a clear and informative view of the geospatial data. Results of project deployed via github pages url: https://meadecarb.github.io/OSW/
 
 ## Features
 - Interactive map centered over Maryland.
